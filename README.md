@@ -39,6 +39,8 @@ jupyter notebook
    Anaconda simplifies package management 
    and deployment, making it a great choice
    if you’re working with data science or complex dependencies.
+##### For more information:
 
+[watch this video]https://www.youtube.com/watch?v=rwDHhx76MMg&list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0&index=1
 
 
